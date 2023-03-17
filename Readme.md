@@ -1,4 +1,4 @@
-Hello everyone!
+# Fashion MNIST Image Classification
 
 This is a machine learning project that uses NumPy, Matplotlib, TensorFlow, and Keras to classify images.
 The Fashion-MNIST dataset consists of 70,000 28x28 pixel grayscale images that represent ten various 
